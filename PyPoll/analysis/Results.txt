@@ -1,0 +1,7 @@
+Percentage for Charles Casper Stockham is %23.05
+Percentage for Diana DeGette is %73.81
+Percentage for Raymon Anthony Doane is %3.14
+Total Number of Votes Each Candidate Won is: Name Charles Casper Stockham and # of Votes 85213
+Total Number of Votes Each Candidate Won is: Name Diana DeGette and # of Votes 272892
+Total Number of Votes Each Candidate Won is: Name Raymon Anthony Doane and # of Votes 11606
+name Diana DeGette and popular vote 272892
